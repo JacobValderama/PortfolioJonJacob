@@ -232,7 +232,7 @@ export default function App() {
             <div className="pill"><i className="dot" />available for internships<span className="d">·</span><span className="d">manila, ph</span></div>
             <AsciiName play={booted} />
             <p className="mt-6 text-[15px] leading-relaxed sm:text-lg"><span className="g">&gt;</span> Backend developer & student leader<br className="hidden sm:block" /> building <Typer /></p>
-            <p className="sans b mt-5 max-w-xl text-[16px] leading-relaxed sm:text-[17px]">Backend Development Core Lead at <span className="text-white">GDG on Campus — TUP Manila</span>. I architect dependable web APIs, run Linux servers, and mentor peers, working in Java, Python and Docker while learning to put modern AI into practical, reliable workflows.</p>
+            <p className="sans b mt-5 max-w-xl text-[16px] leading-relaxed sm:text-[17px]">Backend Development Core Lead at <span className="text-white">GDG on Campus — TUP Manila</span>. I'm someone who genuinely loves learning, whether that's diving deeper into code, figuring out how AI works, or exploring whatever new technology catches my eye. When I'm not studying, you'll usually find me playing games (Minecraft especially) or tinkering with servers just to see what I can build.</p>
             <div className="mt-8 flex flex-wrap gap-3 text-[13px]">
               <a href="#projects" className="btn-g px-5 py-3">view projects →</a>
               <a href="#contact" className="btn-o px-5 py-3">get in touch</a>
